@@ -1,0 +1,315 @@
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
+.header{
+margin: 0px 80px;
+
+}
+
+/* header area */
+
+.text{
+display: flex;
+list-style: none;
+gap: 10px;
+font-size: 12px;
+margin-top: 5px;
+}
+
+.text li:hover{
+color: red;
+cursor: pointer;
+
+}
+
+
+.first{
+display: flex;
+gap: 30px;
+background-color: #f3f1f1;
+padding: 7px;
+}
+
+.imagearea{
+height: 28px;
+
+
+}
+/* banner area */
+
+.bannerarea{
+display: flex;
+background-color: antiquewhite;
+margin-top: 35px;
+
+
+}
+
+.tv{
+    height: 200px;
+
+
+}
+.banner{
+width: 80%;
+margin: auto;
+padding-left: 30px;
+}
+
+.banner p{
+margin: 10px 0px;
+font-size: 10px;
+
+}
+.banner h2{
+margin-bottom: 7px;
+
+
+}
+.banner button{
+margin-left: -1px;
+
+
+}
+
+.rate{
+color: fuchsia;
+font-size: 25px;
+
+}
+
+.button{
+background-color: fuchsia;
+border-radius: 4px;
+padding: 3px;
+color: white;
+border: none;
+
+
+}
+.button:hover{
+cursor: pointer;
+
+
+}
+
+
+/* bag watch shoe area here */
+
+
+.all{
+display: flex;
+gap: 74px;
+align-items: center;
+justify-content: center;
+margin-top: 35px;
+
+}
+
+.watch{
+    height: 70px;
+    width: 280px;
+    display: flex;
+     background-color: orange;
+    border-radius: 3px;
+
+
+
+}
+
+
+.bag{
+    height: 70px;
+    width: 280px;
+    display: flex;
+    background-color: palevioletred;
+border-radius: 3px;
+
+
+
+}
+
+
+
+
+.shoe{
+    height: 70px;
+    width: 280px;
+    display: flex;
+    background-color: blue;
+border-radius: 3px;
+
+
+
+}
+
+.allimage{
+height: 70px;
+margin: auto;
+
+}
+
+.all h1{
+color: white;
+margin: auto;
+
+
+}
+
+.shoearea{
+height: 100x;
+width: 100px;
+
+}
+
+
+/* shoe area here */
+
+
+.supply{
+
+height: 250px;
+width: 200px;
+background-color: white;
+ box-shadow: 2px 0px 2px 0px #888888;
+
+
+}
+.supply h2{
+
+font-size: 15px;
+margin-top: 14px;
+
+}
+.supply p{
+font-size: 10px;
+
+
+}
+.supply h2,p,button{
+margin-left: 20px;
+margin-top: 10px;
+
+
+}
+
+.shoearea{
+
+width: 100%;
+
+}
+
+.area{
+display: flex;
+gap: 55px;
+
+
+}
+
+.mega{
+margin-top: 35px;
+
+
+}
+
+/* bag logo area here */
+
+.lastimage{
+height: 200px;
+width: 200px;
+
+}
+
+.baghere{
+height: 380px;
+width: 200px;
+background-color: white;
+box-shadow: 2px 0px 2px 0px #888888;
+
+
+}
+
+
+.baghere h2{
+margin-left: 20px;
+font-size: 18px;
+
+}
+
+.bagbag{
+display: flex;
+gap: 55px;
+
+
+}
+
+.buttonbuy{
+margin-top: 62px;
+
+}
+
+.buttonb{
+margin-top: 50px;
+
+}
+
+.buttonv{
+margin-top: 27px;
+
+
+
+}
+
+.bagclass{
+margin-top: 35px;
+
+
+}
+
+.bagclass{
+font-size: 10px;
+
+
+}
+.backs{
+font-size: 25px;
+
+
+
+}
+
+
+/* footer area here */
+
+.footer{
+    height: 100px;
+    background-color: antiquewhite;
+margin-top: 35px;
+text-align: center;
+padding: 40px;
+
+}
+
+.footer p{
+margin-left: -7px;
+margin-top: 5px;
+
+}
+.footer input{
+margin-left: -88px;
+
+
+}
+
+.footer button{
+margin-left: -198px;
+margin-top: 3px;
+
+}
+
+
+
+
